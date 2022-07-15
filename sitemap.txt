@@ -1,6 +1,4 @@
-https://hermesnamco.github.io/search/index.html
-https://hermesnamco.github.io/categories/index.html
-https://hermesnamco.github.io/tags/index.html
+https://hermesnamco.github.io/2022/07/15/test-post/
 https://hermesnamco.github.io/2022/07/14/My-New-Post/
 https://hermesnamco.github.io/2022/07/14/hello-world/
 https://hermesnamco.github.io/
