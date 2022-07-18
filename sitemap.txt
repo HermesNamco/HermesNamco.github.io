@@ -1,4 +1,6 @@
+https://hermesnamco.github.io/2022/07/18/GRPC%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/
 https://hermesnamco.github.io/2022/07/15/test-post/
 https://hermesnamco.github.io/2022/07/14/My-New-Post/
 https://hermesnamco.github.io/2022/07/14/hello-world/
 https://hermesnamco.github.io/
+https://hermesnamco.github.io/tags/grpc-golang/
