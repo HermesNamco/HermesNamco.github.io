@@ -11,16 +11,7 @@
   </url>
   
   <url>
-    <loc>https://hermesnamco.github.io/2022/07/15/test-post/</loc>
-    
-    <lastmod>2022-07-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hermesnamco.github.io/2022/07/14/My-New-Post/</loc>
+    <loc>https://hermesnamco.github.io/2022/07/14/go-cache%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</loc>
     
     <lastmod>2022-07-14</lastmod>
     
@@ -40,7 +31,7 @@
 
   <url>
     <loc>https://hermesnamco.github.io/</loc>
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2022-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,7 +39,7 @@
   
   <url>
     <loc>https://hermesnamco.github.io/tags/grpc-golang/</loc>
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
