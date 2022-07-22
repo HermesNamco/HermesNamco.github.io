@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hermesnamco.github.io/2022/07/18/GRPC%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/</loc>
+    <loc>https://hermesnamco.github.io/2022/07/14/go-cache%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</loc>
     
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2022-07-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://hermesnamco.github.io/2022/07/14/go-cache%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://hermesnamco.github.io/2022/07/18/GRPC%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/</loc>
     
-    <lastmod>2022-07-14</lastmod>
+    <lastmod>2022-07-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
